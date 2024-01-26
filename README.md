@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![Kapture 2024-01-26 at 00 17 49](https://github.com/DonaldWorlds/AND102-Prework/assets/76827598/60b29614-bfbd-49b9-889c-b961b68c67a1)
 
 
@@ -29,7 +30,7 @@ GIF created with
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challeges I encountered while building the app was implementing the imageView and applying the button Onclick listener functionality.
 
 ## License
 
