@@ -1,4 +1,4 @@
-# Android Prework - *AND Pre-work | doggy app *
+# Android Prework - AND Pre-work | Doggy app 
 
 Submitted by: **Donald Witherspoon**
 
